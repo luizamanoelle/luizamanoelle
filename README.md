@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizamanoelle&theme=dracula&exclude={exclude}"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizamanoelle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizamanoelle&theme=dracula"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizamanoelle&theme=dracula"  />
 </div>
 
 ###
