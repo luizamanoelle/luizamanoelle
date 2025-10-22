@@ -72,14 +72,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/luizamanoelle/luizamanoelle/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
