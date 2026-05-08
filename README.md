@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###
 
